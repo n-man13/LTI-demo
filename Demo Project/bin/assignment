@@ -1,0 +1,34 @@
+Assignment :-- >  
+ 
+     Design the Menu based on the Scanner Class / Switch Case as per user input and following service will called :--> 
+ 
+
+  Format of the Menu :--> 
+
+     ******************Welcome to CRS Application*************************
+      Enter your Choice :--*************
+       1. Login 
+       2. Registration of the Student 
+       3. Update password 
+       4. Exit 
+ 
+ Choice 1 :-- 
+   Enter Username :-
+   Enter Password :
+   Enter Role/ Choose Role 
+******* Login  as Name :-- Student/Professor/Admin ******************
+ 
+    Welcome to Student
+
+     Note :-- Display the menu of Student ///
+ 
+    Welcome to Admin 
+ 
+     Note :-- Display the menu of Admin 
+ 
+    Welcome to Professor 
+ 
+     Note :-- display the menu of professor ! 
+ 
+	Note :-- Put Some Sysout code in your method when call any service method from the menu ! 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
